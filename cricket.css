@@ -1,0 +1,8 @@
+#abc{
+    text-align: center;
+}
+.bx{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
